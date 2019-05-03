@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIForBloodApp", "WebAPIForBloodApp\WebAPIForBloodApp.csproj", "{8EF0EC25-5509-42C1-8B2A-8C0DB3935FC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EF0EC25-5509-42C1-8B2A-8C0DB3935FC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EF0EC25-5509-42C1-8B2A-8C0DB3935FC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EF0EC25-5509-42C1-8B2A-8C0DB3935FC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EF0EC25-5509-42C1-8B2A-8C0DB3935FC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32153294-3F26-4257-A6B3-A37471D11907}
+	EndGlobalSection
+EndGlobal
